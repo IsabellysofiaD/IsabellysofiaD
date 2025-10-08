@@ -36,7 +36,7 @@
 | Projetos  🤍                       | Preview Online  🤍                      
 |-----------------------|-------------------------------------|
 |Site da Belly| https:// [🔗 Ver online](https://github.com/IsabellysofiaD/Site-da-belly)|
-| Tabela do Beasileirao | [🔗 Ver online](https://github.com/IsabellysofiaD/tabela)|
+| Tabela do Brasileirao | [🔗 Ver online](https://github.com/IsabellysofiaD/tabela)|
 |caixas |[🔗 Ver online](https://github.com/IsabellysofiaD/Site-da-belly) |
 
  ♡ Sobre Mim ♡
