@@ -1,9 +1,9 @@
 
 🩷 Olá! Eu sou a Isabelly Sofia Domingues 🩷
 
-♊️nascimento:19/06/2009♊️
-💗Atualmente estou cursando desenvolvimento de sitemas **senai**, estou adqurindo muitos aprendizados e conhecimentos novos.💗
-🎀hobbies: Viajar, Maquiar, Passear com o meu cachorro, Sair, Fazer compras.🎀
+nascimento:19/06/2009
+Atualmente estou cursando desenvolvimento de sitemas **senai**, estou adqurindo muitos aprendizados e conhecimentos novos.
+hobbies: Viajar, Maquiar, Passear com o meu cachorro, Sair, Fazer compras.
 
 
 
@@ -31,7 +31,7 @@
 
 ---
 
-❣️ Meus Projetos
+ Meus Projetos
 
 | Projetos  🤍                       | Preview Online  🤍                      
 |-----------------------|-------------------------------------|
